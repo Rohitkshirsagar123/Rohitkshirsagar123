@@ -63,13 +63,11 @@ README for GitHub profile. To activate it:
 * **JobTrackly** — Track and manage your job applications.
   🔗 [https://jobtrackly.pythonanywhere.com/](https://jobtrackly.pythonanywhere.com/)
 * **To‑Do React App** — Minimal task manager built with React.
-  🔗 [https://rktodoapp.netlify.app/](https://rktodoapp.netlify.app/)
+  🔗 [https://rktodoapp.netlify.app/](https://github.com/Rohitkshirsagar123/Build-A-Todo-App-using-React-redux)
 * **Currency Converter** — React + Vite app with Tailwind.
   🔗 [https://github.com/Rohitkshirsagar123/Currency\_Converter](https://github.com/Rohitkshirsagar123/Currency_Converter)
 * **DevHelperAI** — Small helpers for developers (HTML/JS/CSS).
   🔗 [https://github.com/Rohitkshirsagar123/DevHelperAI](https://github.com/Rohitkshirsagar123/DevHelperAI)
-* **Library Management (Python)** — Simple CLI library system.
-  🔗 [https://github.com/Rohitkshirsagar123/liberary-with-python](https://github.com/Rohitkshirsagar123/liberary-with-python)
 
 > *More projects on my portfolio →* [https://rohitkshirsagar123.github.io/Rkweb/](https://rohitkshirsagar123.github.io/Rkweb/)
 
