@@ -6,7 +6,7 @@ README for GitHub profile. To activate it:
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+Kshirsagar+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer;I+love+building+performant%2C+clean+UIs+%26+useful+tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=800&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+Kshirsagar+%F0%9F%91%8B;Software+Engineer+%7C+Web+Developer;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -62,7 +62,6 @@ README for GitHub profile. To activate it:
 
 ### 📊 GitHub Stats
 
-> Replace `USERNAME` below with **your** GitHub username (likely `Rohitkshirsagar123`).
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitkshirsagar123&show_icons=true&hide_border=true" alt="GitHub stats" />
