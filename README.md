@@ -35,7 +35,7 @@ README for GitHub profile. To activate it:
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,c,flask,mysql,git,github,linux,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,c,flask,mysql,git,github,spring,vscode&perline=10" />
 </p>
 
 ### 💼 Experience
