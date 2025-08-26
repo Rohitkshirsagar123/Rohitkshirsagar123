@@ -65,13 +65,13 @@ README for GitHub profile. To activate it:
 > Replace `USERNAME` below with **your** GitHub username (likely `Rohitkshirsagar123`).
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitkshirsagar123&show_icons=true&hide_border=true" alt="GitHub stats" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkshirsagar123&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Rohitkshirsagar123&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🤝 Connect
