@@ -35,8 +35,21 @@ README for GitHub profile. To activate it:
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,c,flask,mysql,git,github,spring,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=react" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=python" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=c" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=flask" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=github" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=spring" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 5px;" />
 </p>
+
 
 ### 💼 Experience
 
