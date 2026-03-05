@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rohit-kshirsagar-rk/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://rohitkshirsagar123.github.io/Rkweb/">
+  <a href="https://rohitkshirsagar123.github.io/Rohit-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white">
   </a>
   <a href="mailto:rohitkshirsagar262@gmail.com">
