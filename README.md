@@ -128,7 +128,7 @@ https://jobtrackly.pythonanywhere.com/
 # 🤝 Connect With Me
 
 🌐 Portfolio  
-https://rohitkshirsagar123.github.io/Rkweb/
+https://rohitkshirsagar123.github.io/Rohit-Portfolio/
 
 💼 LinkedIn  
 https://www.linkedin.com/in/rohit-kshirsagar-rk/
