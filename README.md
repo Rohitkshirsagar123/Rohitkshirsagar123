@@ -83,6 +83,9 @@ Features:
 🔗 GitHub  
 https://github.com/Rohitkshirsagar123/ExpirySense-App
 
+🔗Demo Video 
+https://www.youtube.com/watch?v=sC0w6ktUI6U
+
 ---
 
 ## JobTrackly – Job Application Tracker
@@ -98,6 +101,9 @@ Features:
 
 🔗 Live App  
 https://jobtrackly.pythonanywhere.com/
+
+🔗Demo Video 
+https://www.youtube.com/watch?v=zVsdVnp8WJ0
 
 ---
 
