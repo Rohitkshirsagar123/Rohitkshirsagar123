@@ -52,7 +52,7 @@ I enjoy building real-world products and recently developed **ExpirySense**, a m
 ---
 
 # 💼 Experience
-** Software Engineer — Orvionn**  
+**Software Engineer — Orvionn**  
 📅 May 2026 – Present 
 
 **Senior Software Engineer — EXO-FIELD**  
