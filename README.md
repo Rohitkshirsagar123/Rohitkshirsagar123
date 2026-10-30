@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-Frontend Developer with **3.5+ years of experience building responsive web applications** using **React.js and JavaScript**, and experience developing **mobile applications using React Native**.
+Frontend Developer with **4+ years of experience building responsive web applications** using **React.js and JavaScript**, and experience developing **mobile applications using React Native**.
 
 I specialize in:
 
@@ -52,6 +52,8 @@ I enjoy building real-world products and recently developed **ExpirySense**, a m
 ---
 
 # 💼 Experience
+** Software Engineer — Orvionn**  
+📅 May 2026 – Present 
 
 **Senior Software Engineer — EXO-FIELD**  
 📅 Jun 2024 – Apr 2026  
