@@ -20,7 +20,7 @@
 
 # 👨‍💻 About Me
 
-Frontend Developer with **4+ years of experience building responsive web applications** using **React.js and JavaScript**, and experience developing **mobile applications using React Native**.
+Frontend/Fullstack Developer with **4+ years of experience building responsive web applications** using **React.js and JavaScript**, and experience developing **mobile applications using React Native**.
 
 I specialize in:
 
