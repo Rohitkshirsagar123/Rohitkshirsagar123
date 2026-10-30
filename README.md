@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=900&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rohit+Kshirsagar+%F0%9F%91%8B;Frontend+Developer+%7C+React.js+%7C+JavaScript;Building+Scalable+Web+%26+Mobile+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=900&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rohit+Kshirsagar+%F0%9F%91%8B;Frontend/Fullstack+Developer+%7C+React.js+%7C+JavaScript;Building+Scalable+Web+%26+Mobile+Applications" />
 </p>
 
 <p align="center">
